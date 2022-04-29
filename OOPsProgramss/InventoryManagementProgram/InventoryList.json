@@ -1,0 +1,53 @@
+{
+  "RiceList": [
+    {
+      "Name": "Basmati Rice",
+      "Weight": 10,
+      "PricePerkg": 100
+    },
+    {
+      "Name": "Jasmine Rice",
+      "Weight": 20,
+      "PricePerkg": 200
+    },
+    {
+      "Name": "Long-Grain White Rice",
+      "Weight": 10,
+      "PricePerkg": 150
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Einkorn Wheat",
+      "Weight": 10,
+      "PricePerkg": 180
+    },
+    {
+      "Name": "Emmer Wheat",
+      "Weight": 10,
+      "PricePerkg": 200
+    },
+    {
+      "Name": "Spelt Wheat",
+      "Weight": 10,
+      "PricePerkg": 180
+    }
+  ],
+  "Pulses": [
+    {
+      "Name": "Chickpeas Pulses",
+      "Weight": 10,
+      "PricePerkg": 50
+    },
+    {
+      "Name": "Beans Pulses",
+      "Weight": 20,
+      "PricePerkg": 100
+    },
+    {
+      "Name": "Lentils",
+      "Weight": 10,
+      "PricePerkg": 200
+    }
+  ]
+}
