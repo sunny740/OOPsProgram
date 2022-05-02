@@ -1,0 +1,17 @@
+[
+  {
+    "ShareName": "KBSAuto",
+    "NumberofShare": 80,
+    "SharePrice": 200
+  },
+  {
+    "ShareName": "KBSMobi",
+    "NumberofShare": 60,
+    "SharePrice": 300
+  },
+  {
+    "ShareName": "KBSlink",
+    "NumberofShare": 50,
+    "SharePrice": 400
+  }
+]
